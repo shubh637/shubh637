@@ -23,7 +23,7 @@ I am a **Software Engineer** passionate about **Deep Learning, Generative AI, an
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 ## 📌 Featured Projects  
-🔹 **[Disease Prediction System](#https://github.com/shubh637/Disease_prediction)** - AI model for medical diagnostics  
+🔹 **[Disease Prediction System](https://github.com/shubh637/Disease_prediction)** - AI model for medical diagnostics  
 🔹 **[AI Chatbot](#)** - NLP-based chatbot  
 🔹 **[Research Paper](#)** - Smart Vehicles Surveillance in Foggy Conditions using Enhanced Deep Learning Algorithms  
 🔹 **[Generative Art AI](#)** - GANs-powered AI art creation  
