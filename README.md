@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Shubham Kumar Sain.  
 ### 🚀 Machine Learning | Data Science | Generative AI  
 
 I am a **Machine Learning Engineer** passionate about **Deep Learning, Generative AI, and Predictive Analytics**. I love working with **Computer Vision, NLP, and AI model deployment**.
@@ -13,6 +13,14 @@ I am a **Machine Learning Engineer** passionate about **Deep Learning, Generativ
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0077B5?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 ## 📌 Featured Projects  
 🔹 **[Disease Prediction System](#)** - AI model for medical diagnostics  
@@ -21,9 +29,9 @@ I am a **Machine Learning Engineer** passionate about **Deep Learning, Generativ
 🔹 **[Generative Art AI](#)** - GANs-powered AI art creation  
 
 ## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubh637&show_icons=true&theme=radical)  
 
 ## 🌍 Let's Connect!  
-[![LinkedIn](https://www.linkedin.com/in/shubham-sain-b63882250/)  
+[![LinkedIn](https://www.linkedin.com/in/shubham-sain-b63882250/)](https://www.linkedin.com/in/shubham-sain-b63882250/)  
 
-📫 Email:shubhamsain9640@gmail.com  
+📫 Email: shubhamsain9640@gmail.com
