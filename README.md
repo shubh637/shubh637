@@ -28,7 +28,8 @@ I am a **Machine Learning Engineer** passionate about **Deep Learning, Generativ
 🔹 **[Research Paper](#)** - Smart Vehicles Surveillance in Foggy Conditions using Enhanced Deep Learning Algorithms  
 🔹 **[Generative Art AI](#)** - GANs-powered AI art creation  
 
+
 ## 🌍 Let's Connect!  
-[![LinkedIn](https://www.linkedin.com/in/shubham-sain-b63882250/)] 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sain-b63882250/)  
 
 📫 Email: shubhamsain9640@gmail.com
