@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shubham Kumar Sain.  
 ### 🚀 Machine Learning | Data Science | Generative AI  
 
-I am a **Machine Learning Engineer** passionate about **Deep Learning, Generative AI, and Predictive Analytics**. I love working with **Computer Vision, NLP, and AI model deployment**.
+I am a **Software Engineer** passionate about **Deep Learning, Generative AI, and Predictive Analytics**. I love working with **Computer Vision, NLP, and AI model deployment**.
 
 ## 🔍 Areas of Interest  
 - 🧠 Machine Learning & Deep Learning  
