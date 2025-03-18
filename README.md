@@ -20,6 +20,7 @@ I am a **Software Engineer** passionate about **Deep Learning, Generative AI, an
 🔹 **[AI Chatbot](https://github.com/shubh637/BuddyAI)** - NLP-based chatbot  
 🔹 **[Research Paper](https://github.com/shubh637/Dehazer)** - Smart Vehicles Surveillance in Foggy Conditions using Enhanced Deep Learning Algorithms  
 🔹 **[VideoQA](https://github.com/shubh637/VideoQA-using-LLM)** - VIDEO TRANSCRIPT & QUESTION-ANSWERING SYSTEM 
+
 🔹 **[Generative Art AI](https://github.com/shubh637/Text_to_Image_using_generative-AI)** - GANs-powered AI art creation
 
 
