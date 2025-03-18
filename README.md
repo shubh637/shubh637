@@ -17,7 +17,7 @@ I am a **Software Engineer** passionate about **Deep Learning, Generative AI, an
 
 ## 📌 Featured Projects  
   
-🔹 **[Research Paper](https://github.com/shubh637/Dehazer)** - Smart Vehicles Surveillance in Foggy Conditions using Enhanced Deep Learning Algorithms
+🔹 **[Research Paper](https://github.com/shubh637/Dehazer)** - Smart Vehicles Surveillance in Foggy Conditions using Enhanced Deep Learning Algorithms </br>
 🔹 **[Disease Prediction System](https://github.com/shubh637/Disease_prediction)** - AI model for medical diagnostics  
 🔹 **[AI Chatbot](https://github.com/shubh637/BuddyAI)** - NLP-based chatbot  
 🔹 **[VideoQA](https://github.com/shubh637/VideoQA-using-LLM)** - Video transcript and Questions-Answers system. </br>
