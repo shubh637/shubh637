@@ -19,8 +19,7 @@ I am a **Software Engineer** passionate about **Deep Learning, Generative AI, an
 🔹 **[Disease Prediction System](https://github.com/shubh637/Disease_prediction)** - AI model for medical diagnostics  
 🔹 **[AI Chatbot](https://github.com/shubh637/BuddyAI)** - NLP-based chatbot  
 🔹 **[Research Paper](https://github.com/shubh637/Dehazer)** - Smart Vehicles Surveillance in Foggy Conditions using Enhanced Deep Learning Algorithms  
-🔹 **[VideoQA](https://github.com/shubh637/VideoQA-using-LLM)** - VIDEO TRANSCRIPT & QUESTION-ANSWERING SYSTEM 
-
+🔹 **[VideoQA](https://github.com/shubh637/VideoQA-using-LLM)** - Video transcript and Questions-Answers system.
 🔹 **[Generative Art AI](https://github.com/shubh637/Text_to_Image_using_generative-AI)** - GANs-powered AI art creation
 
 
