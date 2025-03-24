@@ -26,7 +26,11 @@ I am a **Software Engineer** passionate about **Deep Learning, Generative AI, an
 
 
 ## 🌍 Let's Connect!  
-[Portfolio]( https://shubh637.github.io/portfolio/)  
+<div style="background-color: #f5f5dc; padding: 15px; border-radius: 10px; text-align: center;">
+  <a href="https://shubh637.github.io/portfolio/" target="_blank" style="color: white; font-size: 20px; font-weight: bold; text-decoration: none;">
+    🔗 Visit My Portfolio
+  </a>
+</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sain-b63882250/)  
 
 📫 Email: shubhamsain9640@gmail.com
