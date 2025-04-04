@@ -57,6 +57,7 @@ I am a **Software Engineer** passionate about **Deep Learning, Generative AI, an
 🔹 **[BuddyAI](https://github.com/shubh637/BuddyAI)** - NLP-based chatbot  
 🔹 **[VideoQA](https://github.com/shubh637/VideoQA-using-LLM)** - Video transcript and Questions-Answers system using LLM. </br>
 🔹 **[Generative Art AI](https://github.com/shubh637/Text_to_Image_using_generative-AI)** - GANs-powered AI art creation
+🔹 **[Sustainable Development Ranking System](https://github.com/shubh637/Sustainable-Development-Ranking-System)** - for better future
 
 
 
