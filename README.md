@@ -64,7 +64,7 @@ Ranks organizations based on their **contributions toward  Sustainable Developme
 
 ---
 
-### [![Disease Prediction System](https://img.shields.io/badge/Disease%20Prediction%20System-brightgreen?style=for-the-badge)](https://github.com/shubh637/Disease_prediction)
+### [![Disease Prediction System](https://img.shields.io/badge/Disease%20Prediction%20System-D00000?style=for-the-badge)](https://github.com/shubh637/Disease_prediction)
 ![Field](https://img.shields.io/badge/Field-Machine%20Learning-blue?style=flat-square)<br> 
 An AI-based tool to **predict diseases from symptoms**, leveraging ML techniques to assist in early diagnosis.
 
