@@ -52,9 +52,15 @@ I am a **Software Engineer** passionate about **Deep Learning, Generative AI, an
 
 ## 📌 Featured Projects  
 
-### [![Dehazer](https://img.shields.io/badge/Smart%20Vehicle%20Surveillance-blueviolet?style=for-the-badge)](https://github.com/shubh637/Dehazer)
-![Field](https://img.shields.io/badge/Field-Deep%20Learning-red?style=flat-square) <br>
+### [![Dehazer](https://img.shields.io/badge/Smart%20Vehicle%20Surveillance%20System-blueviolet?style=for-the-badge)](https://github.com/shubh637/Dehazer)
+![Field](https://img.shields.io/badge/Field-Deep%20Learning/%20Research%20Paper-red?style=flat-square) <br>
 A deep learning-powered system for enhancing **vehicle surveillance in foggy conditions** using WaveletFormerNet, Enhanced YOLOv2, and LuNet.
+
+---
+
+### [![SDG Ranking System](https://img.shields.io/badge/Sustainable%20Development%20Ranking%20System-blue?style=for-the-badge)](https://github.com/shubh637/Sustainable-Development-Ranking-System)
+![Field](https://img.shields.io/badge/Field-Web%20Development%20%2F%20Data%20Science-brightgreen?style=flat-square)<br> 
+Ranks organizations based on their **contributions toward  Sustainable Development Goals (SDGs)** using data-driven metrics.
 
 ---
 
@@ -82,9 +88,6 @@ Generates stunning **AI art from text prompts** using GANs (Generative Adversari
 
 ---
 
-### [![SDG Ranking System](https://img.shields.io/badge/Sustainable%20Development%20Ranking%20System-blue?style=for-the-badge)](https://github.com/shubh637/Sustainable-Development-Ranking-System)
-![Field](https://img.shields.io/badge/Field-Web%20Development%20%2F%20Data%20Science-brightgreen?style=flat-square)<br> 
-Ranks organizations based on their **contributions toward  Sustainable Development Goals (SDGs)** using data-driven metrics.
 
 
 
