@@ -58,6 +58,65 @@ I am a **Software Engineer** passionate about **Deep Learning, Generative AI, an
 🔹 **[VideoQA](https://github.com/shubh637/VideoQA-using-LLM)** - Video transcript and Questions-Answers system using LLM. </br>
 🔹 **[Generative Art AI](https://github.com/shubh637/Text_to_Image_using_generative-AI)** - GANs-powered AI art creation <br>
 🔹 **[Sustainable Development Ranking System](https://github.com/shubh637/Sustainable-Development-Ranking-System)** - Develop a ranking system for organizations based on their contributions towards achieving Sustainable Development Goals (SDGs).
+## 🚀 Projects
+
+<div align="left">
+
+<details open>
+<summary><strong>🔹 <a href="https://github.com/shubh637/Dehazer">Smart Vehicle Surveillance in Foggy Conditions</a></strong></summary>
+<p>
+  <blockquote style="background:#f0f8ff;padding:10px;border-left:5px solid #00aaff;">
+    Deep learning-based solution using WaveletFormerNet, Enhanced YOLOv2, and LuNet for vehicle detection in foggy environments.
+  </blockquote>
+</p>
+</details>
+
+<details open>
+<summary><strong>🔹 <a href="https://github.com/shubh637/Disease_prediction">Disease Prediction System</a></strong></summary>
+<p>
+  <blockquote style="background:#f9f9f9;padding:10px;border-left:5px solid #4caf50;">
+    ML-based tool for early disease diagnosis using symptom-based predictions.
+  </blockquote>
+</p>
+</details>
+
+<details open>
+<summary><strong>🔹 <a href="https://github.com/shubh637/BuddyAI">BuddyAI</a></strong></summary>
+<p>
+  <blockquote style="background:#fff8dc;padding:10px;border-left:5px solid #ff9800;">
+    Natural Language Processing-powered chatbot for intelligent and contextual conversation.
+  </blockquote>
+</p>
+</details>
+
+<details open>
+<summary><strong>🔹 <a href="https://github.com/shubh637/VideoQA-using-LLM">VideoQA using LLM</a></strong></summary>
+<p>
+  <blockquote style="background:#f0fff0;padding:10px;border-left:5px solid #00c853;">
+    Generates Q&A from video transcripts using Large Language Models for content understanding.
+  </blockquote>
+</p>
+</details>
+
+<details open>
+<summary><strong>🔹 <a href="https://github.com/shubh637/Text_to_Image_using_generative-AI">Generative Art AI</a></strong></summary>
+<p>
+  <blockquote style="background:#fce4ec;padding:10px;border-left:5px solid #e91e63;">
+    Text-to-image generator using GANs for AI-powered artistic creations.
+  </blockquote>
+</p>
+</details>
+
+<details open>
+<summary><strong>🔹 <a href="https://github.com/shubh637/Sustainable-Development-Ranking-System">Sustainable Development Ranking System</a></strong></summary>
+<p>
+  <blockquote style="background:#e3f2fd;padding:10px;border-left:5px solid #1976d2;">
+    Framework for ranking organizations based on their contributions toward the UN SDGs.
+  </blockquote>
+</p>
+</details>
+
+</div>
 
 
 
