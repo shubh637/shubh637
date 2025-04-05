@@ -51,73 +51,34 @@ I am a **Software Engineer** passionate about **Deep Learning, Generative AI, an
 
 
 ## 📌 Featured Projects  
-  
-🔹 **[Research Paper](https://github.com/shubh637/Dehazer)** - Smart Vehicles Surveillance in Foggy Conditions using Enhanced Deep Learning Algorithms </br>
-🔹 **[Disease Prediction System](https://github.com/shubh637/Disease_prediction)** - AI model for medical diagnostics  
-🔹 **[BuddyAI](https://github.com/shubh637/BuddyAI)** - NLP-based chatbot  
-🔹 **[VideoQA](https://github.com/shubh637/VideoQA-using-LLM)** - Video transcript and Questions-Answers system using LLM. </br>
-🔹 **[Generative Art AI](https://github.com/shubh637/Text_to_Image_using_generative-AI)** - GANs-powered AI art creation <br>
-🔹 **[Sustainable Development Ranking System](https://github.com/shubh637/Sustainable-Development-Ranking-System)** - Develop a ranking system for organizations based on their contributions towards achieving Sustainable Development Goals (SDGs).
-## 🚀 Projects
 
-<div align="left">
+### [![Dehazer](https://img.shields.io/badge/Smart%20Vehicle%20Surveillance-Dehazer-blueviolet?style=for-the-badge)](https://github.com/shubh637/Dehazer)
+A deep learning-powered system for enhancing **vehicle surveillance in foggy conditions** using WaveletFormerNet, Enhanced YOLOv2, and LuNet.
 
-<details open>
-<summary><strong>🔹 <a href="https://github.com/shubh637/Dehazer">Smart Vehicle Surveillance in Foggy Conditions</a></strong></summary>
-<p>
-  <blockquote style="background:#f0f8ff;padding:10px;border-left:5px solid #00aaff;">
-    Deep learning-based solution using WaveletFormerNet, Enhanced YOLOv2, and LuNet for vehicle detection in foggy environments.
-  </blockquote>
-</p>
-</details>
+---
 
-<details open>
-<summary><strong>🔹 <a href="https://github.com/shubh637/Disease_prediction">Disease Prediction System</a></strong></summary>
-<p>
-  <blockquote style="background:#f9f9f9;padding:10px;border-left:5px solid #4caf50;">
-    ML-based tool for early disease diagnosis using symptom-based predictions.
-  </blockquote>
-</p>
-</details>
+### [![Disease Prediction](https://img.shields.io/badge/Disease%20Prediction-AI%20Diagnosis-brightgreen?style=for-the-badge)](https://github.com/shubh637/Disease_prediction)
+An AI model to **predict diseases from symptoms**, enabling faster diagnosis using machine learning techniques.
 
-<details open>
-<summary><strong>🔹 <a href="https://github.com/shubh637/BuddyAI">BuddyAI</a></strong></summary>
-<p>
-  <blockquote style="background:#fff8dc;padding:10px;border-left:5px solid #ff9800;">
-    Natural Language Processing-powered chatbot for intelligent and contextual conversation.
-  </blockquote>
-</p>
-</details>
+---
 
-<details open>
-<summary><strong>🔹 <a href="https://github.com/shubh637/VideoQA-using-LLM">VideoQA using LLM</a></strong></summary>
-<p>
-  <blockquote style="background:#f0fff0;padding:10px;border-left:5px solid #00c853;">
-    Generates Q&A from video transcripts using Large Language Models for content understanding.
-  </blockquote>
-</p>
-</details>
+### [![BuddyAI](https://img.shields.io/badge/BuddyAI-Chatbot-yellow?style=for-the-badge)](https://github.com/shubh637/BuddyAI)
+A smart **NLP-based chatbot** designed for intelligent, contextual conversations and real-time user assistance.
 
-<details open>
-<summary><strong>🔹 <a href="https://github.com/shubh637/Text_to_Image_using_generative-AI">Generative Art AI</a></strong></summary>
-<p>
-  <blockquote style="background:#fce4ec;padding:10px;border-left:5px solid #e91e63;">
-    Text-to-image generator using GANs for AI-powered artistic creations.
-  </blockquote>
-</p>
-</details>
+---
 
-<details open>
-<summary><strong>🔹 <a href="https://github.com/shubh637/Sustainable-Development-Ranking-System">Sustainable Development Ranking System</a></strong></summary>
-<p>
-  <blockquote style="background:#e3f2fd;padding:10px;border-left:5px solid #1976d2;">
-    Framework for ranking organizations based on their contributions toward the UN SDGs.
-  </blockquote>
-</p>
-</details>
+### [![VideoQA](https://img.shields.io/badge/VideoQA-LLM%20Based-orange?style=for-the-badge)](https://github.com/shubh637/VideoQA-using-LLM)
+Leverages **Large Language Models** to generate **questions and answers from video transcripts**, enhancing content understanding.
 
-</div>
+---
 
+### [![Generative Art](https://img.shields.io/badge/Generative%20Art-AI%20Art%20Creator-red?style=for-the-badge)](https://github.com/shubh637/Text_to_Image_using_generative-AI)
+Transforms text prompts into visuals using **GANs** (Generative Adversarial Networks) for stunning AI-generated art.
+
+---
+
+### [![SDG Rank](https://img.shields.io/badge/Sustainable%20Development-Ranking%20System-lightblue?style=for-the-badge)](https://github.com/shubh637/Sustainable-Development-Ranking-System)
+A system that ranks organizations based on their **contributions to the UN Sustainable Development Goals (SDGs)** using a data-driven approach.
 
 
 ## 🌍 Let's Connect!  
