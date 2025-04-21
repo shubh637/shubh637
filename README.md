@@ -93,6 +93,4 @@ Turns text prompts into stunning visuals using GANs.
 ---
 
 ## 🌍 Let's Connect  
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-orange?style=for-the-badge)](https://shubh637.github.io/portfolio/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sain-b63882250/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsain9640@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-orange?style=for-the-badge)](https://shubh637.github.io/portfolio/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sain-b63882250/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsain9640@gmail.com)
