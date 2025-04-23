@@ -87,9 +87,6 @@ An intelligent chatbot with context-aware NLP conversations.
 📚 Field: LLM / GenAI  
 Generates **Q&A** from video transcripts using LLMs.
 
-### [![Generative Art AI](https://img.shields.io/badge/Generative%20Art%20AI-red?style=for-the-badge)🎨](https://github.com/shubh637/Text_to_Image_using_generative-AI)  
-🖌️ Field: Generative AI  
-Turns text prompts into stunning visuals using GANs.
 
 </td>
 </tr>
