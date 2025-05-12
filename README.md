@@ -59,7 +59,7 @@
 
 
 ---
-## 📌 Featured Projects  
+## 📌 Featured Projects (click on links)
 <table>
 <tr>
 <td valign="top" width="55%">
