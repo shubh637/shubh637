@@ -85,7 +85,7 @@ An intelligent chatbot with context-aware NLP conversations.
 
 ### [![VideoQA](https://img.shields.io/badge/VideoQA-orange?style=for-the-badge) 🎥](https://github.com/shubh637/VideoQA-using-LLM)  
 📚 Field: LLM / GenAI  
-Generates **Q&A** from video using LLMs .it used the youtube videos or the normal video from the device then with the help of wisper it take transcript from the video and use it to answer the queries using openrouter api which use the llm model .
+Generates **Q&A** from video using LLMs.
 
 
 </td>
